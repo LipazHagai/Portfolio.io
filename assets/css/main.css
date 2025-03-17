@@ -98,8 +98,8 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 	body {
-		background: url('/Portfolio.io/images/back3.PNG') no-repeat center center fixed !important;
-   		background-size: cover !important;
+		background: url('https://raw.githubusercontent.com/LipazHagai/Portfolio.io/main/images/back3.PNG') no-repeat center center fixed;
+ 		background-size: cover;
 	}
 	body::before {
 		content: "";
