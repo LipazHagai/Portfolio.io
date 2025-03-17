@@ -98,7 +98,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 	body {
-		background: url('../../images/back3.png') no-repeat center center fixed !important;
+		background: url('././images/back3.png') no-repeat center center fixed !important;
 		background-size: cover !important;
 	}
 	body::before {
